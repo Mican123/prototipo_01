@@ -1,21 +1,17 @@
 # 📘 Trabajo: Prototipo 01 – Gestión de Repositorio y Colaboración
 
 ## Universidad Compensar
-**Asignatura:** [Nombre de la materia]  
-**Docente:** [Nombre del docente]  
-**Fecha:** [Coloca la fecha de entrega]  
+**Asignatura:** levantamiento de requerimientos  
+**Docente:** Cristhian Fernando Moreno  
+**Fecha:** 29/08/2025  
 
 ---
 
 ## 👥 Integrantes
 Cada integrante debe registrarse con:  
-- Nombre completo  
-- Apellido en MAYÚSCULA  
-- Correo institucional  
-
-Ejemplo:  
-- Juan PÉREZ – jperez@ucompensar.edu.co  
-
+- Santiago Mendoza Villanueva, Samuel Mican     
+- smendozav@ucompensar.edu.co     
+  
 ---
 
 ## 📌 Introducción
